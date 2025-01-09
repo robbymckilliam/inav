@@ -74,7 +74,7 @@ MSP_RX is the default, 18 channels are supported over TCP/IP connection.
 ### Joystick interface
 Only 8 channels are supported.
 
-Select "SIM (SITL)" as the receiver and set up a joystick in the simulator.
+Select "SIM (SITL)" as the receiver and set up a joystick in the simulator. Refer to [X-Plane.md](X-Plane.md) to configure the joystick in X-Plane.
 
 *Not available with INAV-X-Plane-HITL plugin.*
 
